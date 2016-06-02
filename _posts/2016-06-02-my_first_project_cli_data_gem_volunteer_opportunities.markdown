@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""My first project: CLI Data Gem Volunteer Opportunities ""
+title:  "My first project: CLI Data Gem Volunteer Opportunities + Learning Update"
 date:   2016-06-02 15:50:30 -0400
 ---
 
