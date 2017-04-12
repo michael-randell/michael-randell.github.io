@@ -1,10 +1,10 @@
 # Site settings
-title: A Journey Through Learning Code
+title: A Journey Through Becoming a Developer
 header-img: img/home-bg.png
 email: michael.james.randell@gmail.com
 copyright_name: MIKE-RANDELL
 description: > # this means to ignore newlines until "baseurl:"
-  my thoughts on the experience at Learn.co
+  my thoughts on the path of learning and becoming a Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MIKE-RANDELL
